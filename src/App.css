@@ -1,0 +1,15 @@
+.back{
+  
+  margin-top:150px;
+  height: 400px;
+  margin-left: 40%;
+  margin-right:40%;
+}
+
+.button{
+  margin-top: 30px;
+  margin-left: 45%;
+  background-color: red;
+  border:none;
+  padding:5px;
+}
